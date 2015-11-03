@@ -1,2 +1,7 @@
 # test
 Workshop Repository
+
+
+Process for Github
+1. git add <>	# Add file for tracking  (--all allows for everything in repo to be tracked)
+2. git commit -m ""   # Committed changes to local repo (-m for message, enclose in quotes)
